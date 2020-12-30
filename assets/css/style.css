@@ -1,0 +1,40 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:arial;
+    background:#9AD4E0;
+}
+
+section{
+    width:50%;
+    border:3px solid #000;
+    border-radius:15px;
+    padding:8px;
+    margin:0 auto;
+    margin-top:15%;
+    text-align: center;
+    background:#fff;
+}
+
+button{
+    cursor: pointer;
+    width:120px;
+    font-size:18px;
+    font-weight: bold;
+}
+
+h1{
+    font-size:3em;
+}
+
+.relogio{
+    font-size:3em;
+}
+
+.red{
+    color:red;
+}
